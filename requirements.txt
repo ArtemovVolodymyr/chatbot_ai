@@ -1,0 +1,4 @@
+#requirements.txt
+python-telegram-bot
+psycopg2-binary
+python-dotenv
